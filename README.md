@@ -6,5 +6,5 @@ Obsahuje súbory: <br />
 README.md <br />
 bank_database.docx - súbor obsahuje dokumentáciu k databáze.<br />
 bank_final_version - súbor s datábazov. <br />
-mySQL.pdf <br />
-posgresSQL.pdf <br />
+mySQL.pdf - ddl script<br />
+posgresSQL.pdf - ddl script<br />
